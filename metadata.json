@@ -1,0 +1,6 @@
+{
+  "name": "Automated Group Quiz System",
+  "description": "An interactive real-time group quiz platform with dynamic leaderboards, admin controller, candidate answers client, and a projector cast screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
